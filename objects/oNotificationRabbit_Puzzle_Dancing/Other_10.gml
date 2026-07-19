@@ -14,7 +14,7 @@ switch (state)
     case "jump awake":
         _drawx -= (startXdir * 4);
         
-        if (spriteIndex == 278)
+        if (spriteIndex == sNotifRabbit_Jump)
         {
             if (_animationLooped)
             {

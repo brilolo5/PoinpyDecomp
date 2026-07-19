@@ -38,5 +38,5 @@
     "path":"sprites/sNotificationRabbit_dev/sNotificationRabbit_dev.yy",
   },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":false,
 }

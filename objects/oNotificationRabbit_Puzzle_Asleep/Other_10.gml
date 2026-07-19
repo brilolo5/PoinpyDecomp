@@ -13,7 +13,7 @@ var _animationLooped = imageIndex >= _imageCount;
 switch (state)
 {
     case "jump awake":
-        if (spriteIndex == 278)
+        if (spriteIndex == sNotifRabbit_Jump)
         {
             if (_animationLooped)
             {

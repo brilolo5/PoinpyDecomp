@@ -24,7 +24,7 @@ switch (state)
         break;
     
     case "notification - checking in":
-        if (spriteIndex == 595)
+        if (spriteIndex == sNotifRabbit_WalkIn)
         {
             if (_animationLooped)
             {
@@ -33,7 +33,7 @@ switch (state)
                 imageIndex = 0;
             }
         }
-        else if (spriteIndex == 630)
+        else if (spriteIndex == sNotifRabbit_Blink)
         {
             if (_animationLooped)
             {
@@ -43,7 +43,7 @@ switch (state)
                     imageIndex -= _imageCount;
             }
         }
-        else if (spriteIndex == 278)
+        else if (spriteIndex == sNotifRabbit_Jump)
         {
             if (_animationLooped)
             {
@@ -56,7 +56,7 @@ switch (state)
         break;
     
     case "notification - checking back out":
-        if (spriteIndex == 595)
+        if (spriteIndex == sNotifRabbit_WalkIn)
         {
             if (_animationLooped)
                 rabbitStateChange("notification - jumping");
@@ -65,7 +65,7 @@ switch (state)
         break;
     
     case "jump awake":
-        if (spriteIndex == 278)
+        if (spriteIndex == sNotifRabbit_Jump)
         {
             if (_animationLooped)
             {
