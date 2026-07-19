@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"locOutputCharsetFiles",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"locOutputCharsetFiles",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

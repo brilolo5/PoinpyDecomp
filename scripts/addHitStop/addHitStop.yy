@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"addHitStop",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"addHitStop",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

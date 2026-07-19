@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"diagboxIsFloating",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"diagboxIsFloating",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

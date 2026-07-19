@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"savedataDeserialise",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"savedataDeserialise",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

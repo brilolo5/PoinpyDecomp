@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"TextureManagerHighMemSet",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"TextureManagerHighMemSet",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

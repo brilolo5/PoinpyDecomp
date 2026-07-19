@@ -1,0 +1,1 @@
+uiDestroy("trophy root");

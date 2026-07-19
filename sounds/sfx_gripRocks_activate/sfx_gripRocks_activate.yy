@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"sfx_gripRocks_activate",
+  "audioGroupId":{
+    "name":"sfx",
+    "path":"audiogroups/sfx",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":0.1790249,
+  "exportDir":"",
+  "name":"sfx_gripRocks_activate",
+  "parent":{
+    "name":"sfx",
+    "path":"folders/Sounds/sfx.yy",
+  },
+  "preload":true,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"sfx_gripRocks_activate.wav",
+  "volume":1.0,
+}

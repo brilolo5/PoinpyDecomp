@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"generateBeastEffect",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"generateBeastEffect",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

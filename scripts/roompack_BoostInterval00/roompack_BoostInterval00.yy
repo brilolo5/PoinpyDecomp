@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"roompack_BoostInterval00",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"roompack_BoostInterval00",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

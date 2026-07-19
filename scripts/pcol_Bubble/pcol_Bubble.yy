@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"pcol_Bubble",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"pcol_Bubble",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

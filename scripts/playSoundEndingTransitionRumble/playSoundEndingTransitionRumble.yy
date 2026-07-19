@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"playSoundEndingTransitionRumble",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"playSoundEndingTransitionRumble",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

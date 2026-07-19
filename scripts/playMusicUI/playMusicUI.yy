@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"playMusicUI",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"playMusicUI",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

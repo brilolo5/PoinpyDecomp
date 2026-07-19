@@ -1,0 +1,1 @@
+areaIndex = -1;

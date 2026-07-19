@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"playSoundTransition",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"playSoundTransition",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

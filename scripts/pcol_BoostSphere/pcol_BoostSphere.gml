@@ -1,0 +1,3 @@
+function pcol_BoostSphere()
+{
+}

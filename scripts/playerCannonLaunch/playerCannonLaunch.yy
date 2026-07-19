@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"playerCannonLaunch",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"playerCannonLaunch",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

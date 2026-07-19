@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"createAreaTextEffect",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"createAreaTextEffect",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

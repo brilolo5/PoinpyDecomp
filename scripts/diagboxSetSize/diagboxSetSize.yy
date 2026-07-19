@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"diagboxSetSize",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"diagboxSetSize",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

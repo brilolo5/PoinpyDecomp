@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"mapReadListCopy",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"mapReadListCopy",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

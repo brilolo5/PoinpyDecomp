@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"playSoundAbilityEquipMenuTakeOff",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"playSoundAbilityEquipMenuTakeOff",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

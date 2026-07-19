@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"puzzleDataReset",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"puzzleDataReset",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,12 @@
+image_speed = 0;
+imageIndex = 0;
+speakTime = 0;
+image_xscale = getHDirectionOnCreate(noFlip, oppositeSide, image_xscale);
+mouthOpenSound = 0;
+mouthCloseSound = 1;
+audioVarSpeakLoop = 0;
+xwobble = 1;
+ywobble = 1;
+dewReceived = 0;
+nomzoSpeakTime = 0;
+forceSmile = 0;

@@ -1,0 +1,1 @@
+textSpawned = 0;

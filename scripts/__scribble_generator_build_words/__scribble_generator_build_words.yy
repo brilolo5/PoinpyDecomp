@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"__scribble_generator_build_words",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"__scribble_generator_build_words",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

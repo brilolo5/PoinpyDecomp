@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"playSoundPlayerVineRollHeadLp",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"playSoundPlayerVineRollHeadLp",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

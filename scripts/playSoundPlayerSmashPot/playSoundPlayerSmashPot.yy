@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"playSoundPlayerSmashPot",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"playSoundPlayerSmashPot",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

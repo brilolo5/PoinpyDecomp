@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"drawOrbitingCircle",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"drawOrbitingCircle",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

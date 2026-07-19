@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"questPing",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"questPing",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"getViewh",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"getViewh",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

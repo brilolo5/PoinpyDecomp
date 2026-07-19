@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"roompackwide_CannonInterval00",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"roompackwide_CannonInterval00",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

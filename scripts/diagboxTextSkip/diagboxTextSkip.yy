@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"diagboxTextSkip",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"diagboxTextSkip",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

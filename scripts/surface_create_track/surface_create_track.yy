@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"surface_create_track",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"surface_create_track",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"playSoundTutorialGuyEatEnd",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"playSoundTutorialGuyEatEnd",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

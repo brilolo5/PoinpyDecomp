@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"sfx_froggyNet_activate",
+  "audioGroupId":{
+    "name":"sfx",
+    "path":"audiogroups/sfx",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":0.3219501,
+  "exportDir":"",
+  "name":"sfx_froggyNet_activate",
+  "parent":{
+    "name":"sfx",
+    "path":"folders/Sounds/sfx.yy",
+  },
+  "preload":true,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"sfx_froggyNet_activate.wav",
+  "volume":1.0,
+}

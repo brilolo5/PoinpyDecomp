@@ -1,0 +1,3 @@
+function phcol_StickyWall()
+{
+}

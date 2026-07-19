@@ -1,0 +1,37 @@
+{
+  "$GMAnimCurve":"",
+  "%Name":"acNoJumpsLeftAlpha",
+  "channels":[
+    {"$GMAnimCurveChannel":"","%Name":"alpha","colour":4290799884,"name":"alpha","points":[
+        {"th0":-0.1,"th1":0.020785045,"tv0":0.0,"tv1":0.0,"x":0.0,"y":255.0,},
+        {"th0":1.0,"th1":-1.0,"tv0":0.0,"tv1":0.0,"x":0.050110858,"y":255.0,},
+        {"th0":-0.004157009,"th1":0.009372164,"tv0":0.0,"tv1":0.0,"x":0.055855088,"y":1.334538,},
+        {"th0":1.0,"th1":-1.0,"tv0":0.0,"tv1":0.0,"x":0.07641338,"y":1.334538,},
+        {"th0":-0.009372164,"th1":0.086405315,"tv0":0.0,"tv1":0.0,"x":0.120250925,"y":255.0,},
+        {"th0":1.0,"th1":-1.0,"tv0":0.0,"tv1":0.0,"x":0.18101884,"y":255.0,},
+        {"th0":1.0,"th1":-1.0,"tv0":0.0,"tv1":0.0,"x":0.42197418,"y":0.0,},
+        {"th0":-0.086405315,"th1":0.10006552,"tv0":0.0,"tv1":0.0,"x":0.4969515,"y":0.0,},
+        {"th0":-0.1,"th1":0.1,"tv0":0.0,"tv1":0.0,"x":1.0,"y":0.0,},
+      ],"resourceType":"GMAnimCurveChannel","resourceVersion":"2.0","visible":true,},
+    {"$GMAnimCurveChannel":"","%Name":"red","colour":4290799884,"name":"red","points":[
+        {"th0":-0.1,"th1":0.1,"tv0":0.0,"tv1":0.0,"x":0.0,"y":255.0,},
+        {"th0":-0.1,"th1":0.1,"tv0":0.0,"tv1":0.0,"x":1.0,"y":255.0,},
+      ],"resourceType":"GMAnimCurveChannel","resourceVersion":"2.0","visible":true,},
+    {"$GMAnimCurveChannel":"","%Name":"green","colour":4290799884,"name":"green","points":[
+        {"th0":-0.1,"th1":0.1,"tv0":0.0,"tv1":0.0,"x":0.0,"y":255.0,},
+        {"th0":-0.1,"th1":0.1,"tv0":0.0,"tv1":0.0,"x":1.0,"y":255.0,},
+      ],"resourceType":"GMAnimCurveChannel","resourceVersion":"2.0","visible":true,},
+    {"$GMAnimCurveChannel":"","%Name":"blue","colour":4290799884,"name":"blue","points":[
+        {"th0":-0.1,"th1":0.1,"tv0":0.0,"tv1":0.0,"x":0.0,"y":255.0,},
+        {"th0":-0.1,"th1":0.1,"tv0":0.0,"tv1":0.0,"x":1.0,"y":255.0,},
+      ],"resourceType":"GMAnimCurveChannel","resourceVersion":"2.0","visible":true,},
+  ],
+  "function":1,
+  "name":"acNoJumpsLeftAlpha",
+  "parent":{
+    "name":"Animation Curves",
+    "path":"folders/Animation Curves.yy",
+  },
+  "resourceType":"GMAnimCurve",
+  "resourceVersion":"2.0",
+}

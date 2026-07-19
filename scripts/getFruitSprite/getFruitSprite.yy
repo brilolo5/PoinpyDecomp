@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"getFruitSprite",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"getFruitSprite",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

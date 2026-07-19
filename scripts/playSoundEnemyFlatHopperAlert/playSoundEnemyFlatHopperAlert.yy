@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"playSoundEnemyFlatHopperAlert",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"playSoundEnemyFlatHopperAlert",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

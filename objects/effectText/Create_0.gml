@@ -1,0 +1,16 @@
+text = "aaa";
+drawx = x;
+drawy = y;
+drawGui = false;
+mainColor = make_color_rgb(255, 255, 255);
+shadeColor = make_color_rgb(46, 50, 59);
+angle = 0;
+size = 1;
+xsp = 0;
+ysp = 0;
+xfric = 0;
+yfric = 0;
+halign = 1;
+valign = 1;
+killTimer = 240;
+wrapWidth = global.viewWidth * 0.9;

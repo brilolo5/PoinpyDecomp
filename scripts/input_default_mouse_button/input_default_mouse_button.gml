@@ -1,0 +1,15 @@
+function input_default_mouse_button()
+{
+    var _button = argument[0];
+    var _verb = argument[1];
+    var _alternate = (argument_count > 2 && argument[2] != undefined) ? argument[2] : 0;
+    global.__input_mouse_valid = true;
+    global.__input_default_player.set_binding(UnknownEnum.Value_1, _verb, _alternate, new __input_class_binding("mouse button", _button));
+    var _p = 0;
+    
+    repeat (4)
+    {
+        global.__input_players[_p].set_binding(UnknownEnum.Value_1, _verb, _alternate, new __input_class_binding("mouse button", _button));
+        _p++;
+    }
+}

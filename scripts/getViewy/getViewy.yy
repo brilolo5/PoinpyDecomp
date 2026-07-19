@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"getViewy",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"getViewy",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"__memopad",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"__memopad",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

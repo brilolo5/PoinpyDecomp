@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"audioEventEnemyStomped",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"audioEventEnemyStomped",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

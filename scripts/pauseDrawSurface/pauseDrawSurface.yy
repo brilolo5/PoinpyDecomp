@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"pauseDrawSurface",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"pauseDrawSurface",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

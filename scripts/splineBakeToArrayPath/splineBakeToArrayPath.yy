@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"splineBakeToArrayPath",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"splineBakeToArrayPath",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

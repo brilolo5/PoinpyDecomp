@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"playSoundPostEndReturnAppear",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"playSoundPostEndReturnAppear",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

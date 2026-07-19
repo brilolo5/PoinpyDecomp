@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"haptic",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"haptic",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

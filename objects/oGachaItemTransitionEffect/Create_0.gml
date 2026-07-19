@@ -1,0 +1,12 @@
+var _mousex = device_mouse_x_to_gui(0);
+var _mousey = device_mouse_y_to_gui(0);
+var _wCenter = global.windowCenterx;
+var _wMiddle = global.windowMiddley;
+gx = _wCenter;
+gy = _wMiddle;
+xsp = -0.9;
+ysp = -4;
+grav = 0.2;
+sprite_index = sItem_aim_focus_extend;
+timeScaleChange(0, 1, 1);
+timeScaleChange(1, 30, 1/30);

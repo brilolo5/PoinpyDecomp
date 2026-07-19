@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scribble_anim_shake",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scribble_anim_shake",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

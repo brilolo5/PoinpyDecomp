@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"orderRatioAdd",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"orderRatioAdd",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

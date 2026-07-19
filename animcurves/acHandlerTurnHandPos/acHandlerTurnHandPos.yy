@@ -1,0 +1,33 @@
+{
+  "$GMAnimCurve":"",
+  "%Name":"acHandlerTurnHandPos",
+  "channels":[
+    {"$GMAnimCurveChannel":"","%Name":"x","colour":4290799884,"name":"x","points":[
+        {"th0":1.0,"th1":-1.0,"tv0":0.0,"tv1":0.0,"x":0.0,"y":0.0,},
+        {"th0":1.0,"th1":-1.0,"tv0":0.0,"tv1":0.0,"x":0.028571429,"y":0.0,},
+        {"th0":1.0,"th1":-1.0,"tv0":0.0,"tv1":0.0,"x":0.071428575,"y":-1.0,},
+        {"th0":1.0,"th1":-1.0,"tv0":0.0,"tv1":0.0,"x":0.7714286,"y":-1.0,},
+        {"th0":1.0,"th1":-1.0,"tv0":0.0,"tv1":0.0,"x":1.0,"y":-1.0,},
+      ],"resourceType":"GMAnimCurveChannel","resourceVersion":"2.0","visible":true,},
+    {"$GMAnimCurveChannel":"","%Name":"y","colour":4290799884,"name":"y","points":[
+        {"th0":1.0,"th1":-1.0,"tv0":0.0,"tv1":0.0,"x":0.0,"y":0.0,},
+        {"th0":1.0,"th1":-1.0,"tv0":0.0,"tv1":0.0,"x":0.028571429,"y":0.068859935,},
+        {"th0":1.0,"th1":-1.0,"tv0":0.0,"tv1":0.0,"x":0.028571429,"y":-9.0,},
+        {"th0":1.0,"th1":-1.0,"tv0":0.0,"tv1":0.0,"x":0.071428575,"y":-9.0,},
+        {"th0":1.0,"th1":-1.0,"tv0":0.0,"tv1":0.0,"x":0.071428575,"y":8.0,},
+        {"th0":1.0,"th1":-1.0,"tv0":0.0,"tv1":0.0,"x":0.7714286,"y":8.098768,},
+        {"th0":1.0,"th1":-1.0,"tv0":0.0,"tv1":0.0,"x":0.7714286,"y":16.0,},
+        {"th0":1.0,"th1":-1.0,"tv0":0.0,"tv1":0.0,"x":0.85714287,"y":1.0,},
+        {"th0":1.0,"th1":-1.0,"tv0":0.0,"tv1":0.0,"x":0.85714287,"y":1.0,},
+        {"th0":1.0,"th1":-1.0,"tv0":0.0,"tv1":0.0,"x":1.0,"y":1.0,},
+      ],"resourceType":"GMAnimCurveChannel","resourceVersion":"2.0","visible":true,},
+  ],
+  "function":1,
+  "name":"acHandlerTurnHandPos",
+  "parent":{
+    "name":"Animation Curves",
+    "path":"folders/Animation Curves.yy",
+  },
+  "resourceType":"GMAnimCurve",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"drawCircleFast",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"drawCircleFast",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,11 @@
+textGoal_y = -32;
+tempScore = 0;
+moneyScore = "b";
+bonusScore = 0;
+myBonusText = -1;
+depth = -100000;
+bonusTextTimer = 10;
+destroyTimer = 60;
+juiceLaunchTimer = 14;
+scoreText = "0";
+myGrid = ds_grid_create(0, 0);

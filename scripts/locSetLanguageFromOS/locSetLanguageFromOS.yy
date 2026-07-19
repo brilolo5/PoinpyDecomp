@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"locSetLanguageFromOS",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"locSetLanguageFromOS",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

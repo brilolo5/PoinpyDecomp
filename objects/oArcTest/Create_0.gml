@@ -1,0 +1,9 @@
+depth = -1000;
+set = 0;
+drawx = 0;
+drawy = 0;
+goalx = global.viewHeight / 2;
+goaly = 0;
+time = 0;
+imageSize = 16;
+image_angle = -45;

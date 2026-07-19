@@ -1,0 +1,10 @@
+var _viewy = getViewy(global.cam);
+var _viewx = getViewx(global.cam);
+var _depth = (ystart - _viewy) / 30;
+var _bgx = _viewx + 80;
+y = ystart + _depth;
+texture_set_interpolation(false);
+draw_sprite_ext(spriteIndex, imageIndex, x, y, image_xscale, image_yscale, 0, c_white, 1);
+texture_set_interpolation(true);
+draw_set_color(make_color_rgb(239, 246, 255));
+draw_rectangle(bbox_left - 8, bbox_bottom, bbox_right, bbox_bottom + 100, 0);

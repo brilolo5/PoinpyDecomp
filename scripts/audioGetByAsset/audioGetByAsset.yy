@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"audioGetByAsset",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"audioGetByAsset",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

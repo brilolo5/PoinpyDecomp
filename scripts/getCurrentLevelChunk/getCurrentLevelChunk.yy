@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"getCurrentLevelChunk",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"getCurrentLevelChunk",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

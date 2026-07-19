@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"uiTemplateSettingsScaler_test",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"uiTemplateSettingsScaler_test",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

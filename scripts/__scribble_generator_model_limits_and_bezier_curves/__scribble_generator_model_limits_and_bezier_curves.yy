@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"__scribble_generator_model_limits_and_bezier_curves",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"__scribble_generator_model_limits_and_bezier_curves",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

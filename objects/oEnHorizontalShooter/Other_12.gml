@@ -1,0 +1,13 @@
+dcx = cx;
+dcy = cy;
+var _width = sprite_width;
+var _xoffsetRatio = sprite_xoffset / _width;
+var _xoffsetValue = (xShrink * _width) - _width;
+var _xoffset = _xoffsetValue * _xoffsetRatio;
+var _height = sprite_height;
+var _yoffsetRatio = sprite_yoffset / _height;
+var _yoffsetValue = (yShrink * _height) - _height;
+var _yoffset = 0;
+var _drawx = x + dcx + _xoffset;
+var _drawy = y + dcy + _yoffset;
+draw_sprite_ext(sprite_index, image_index, _drawx, _drawy, xscale, yscale, imageAngle * xDirection, c_white, 1);

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"playSoundBeastEnterFirstTime",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"playSoundBeastEnterFirstTime",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

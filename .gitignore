@@ -1,0 +1,29 @@
+# Assets are not distributed with this repo - they belong to the game's
+# copyright holders. Run PoinpyDecompiler.csx against your own copy of
+# game.droid to regenerate everything below.
+
+# Sprite frames and layers
+sprites/*/*.png
+sprites/*/layers/*/*.png
+
+
+# Audio
+sounds/*/*.ogg
+sounds/*/*.wav
+sounds/*/*.mp3
+
+# Font textures
+fonts/*/*.png
+
+# Included files (localisation, splash images, native libs)
+datafiles/
+
+# The build needs these to exist. The splash is a blank black 320x240 image and
+# the icon is a neutral placeholder - neither is game artwork, so both ship.
+# Replace them with your own if you make a build.
+
+# GameMaker local state
+*.resource_order
+.gm/
+Configs/
+temp/

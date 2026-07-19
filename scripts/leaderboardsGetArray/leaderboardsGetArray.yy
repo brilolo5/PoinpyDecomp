@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"leaderboardsGetArray",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"leaderboardsGetArray",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

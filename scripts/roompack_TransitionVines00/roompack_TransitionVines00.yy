@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"roompack_TransitionVines00",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"roompack_TransitionVines00",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

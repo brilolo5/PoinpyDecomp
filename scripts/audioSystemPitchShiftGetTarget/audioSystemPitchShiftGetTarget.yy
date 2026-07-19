@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"audioSystemPitchShiftGetTarget",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"audioSystemPitchShiftGetTarget",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

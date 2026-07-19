@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"pvcol_OnewayPlatform",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"pvcol_OnewayPlatform",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

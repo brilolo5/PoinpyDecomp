@@ -1,0 +1,16 @@
+if (live_call())
+    return global.live_result;
+
+if (instance_exists(oPlayer))
+{
+    var _px = oPlayer.x;
+    var _py = oPlayer.y;
+    
+    if (inRectArea(x, y, _px, _py, 80, 80))
+    {
+        if (oPlayer.currentState == "slam bounce" && playerStateTracker != "slam bounce")
+            jumpAwake();
+    }
+    
+    playerStateTracker = oPlayer.currentState;
+}

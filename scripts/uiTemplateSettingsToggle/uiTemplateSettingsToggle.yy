@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"uiTemplateSettingsToggle",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"uiTemplateSettingsToggle",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

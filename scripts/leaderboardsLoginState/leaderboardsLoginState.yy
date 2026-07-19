@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"leaderboardsLoginState",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"leaderboardsLoginState",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

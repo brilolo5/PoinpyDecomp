@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"splineInterpolate4",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"splineInterpolate4",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

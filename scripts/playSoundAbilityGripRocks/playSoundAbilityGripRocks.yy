@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"playSoundAbilityGripRocks",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"playSoundAbilityGripRocks",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

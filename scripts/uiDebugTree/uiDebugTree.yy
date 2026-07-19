@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"uiDebugTree",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"uiDebugTree",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,17 @@
+event_inherited();
+active = 0;
+activationRange = 96;
+cx = 0;
+cy = 0;
+xsp = 0;
+ysp = 0;
+maxSpeed = 0.15;
+xdirection = 1;
+accel = 0.025;
+xDirection = 1;
+yDirection = 1;
+xShrink = 1;
+yShrink = 1;
+xscale = 1;
+yscale = 1;
+mask_index = sprite_index;

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"clearLocalHighscores",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"clearLocalHighscores",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

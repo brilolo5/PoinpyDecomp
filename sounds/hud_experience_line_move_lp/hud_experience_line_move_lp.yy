@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"hud_experience_line_move_lp",
+  "audioGroupId":{
+    "name":"sfx",
+    "path":"audiogroups/sfx",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":2.6408162,
+  "exportDir":"",
+  "name":"hud_experience_line_move_lp",
+  "parent":{
+    "name":"sfx",
+    "path":"folders/Sounds/sfx.yy",
+  },
+  "preload":true,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"hud_experience_line_move_lp.wav",
+  "volume":1.0,
+}

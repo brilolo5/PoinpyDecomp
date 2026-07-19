@@ -1,0 +1,14 @@
+wallState = "moving";
+stop = 0;
+set = 0;
+cx = 0;
+cy = 0;
+xDirection = sign((x - (room_width / 2)) + 0.1);
+moveSpeed = 0;
+timer = 60;
+wallSizex = 1;
+wallSizey = 1;
+alarmo[0] = timer;
+alarm[0] = 4;
+set = 0;
+mask_index = sprite_index;

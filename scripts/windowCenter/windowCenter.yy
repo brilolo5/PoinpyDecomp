@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"windowCenter",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"windowCenter",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

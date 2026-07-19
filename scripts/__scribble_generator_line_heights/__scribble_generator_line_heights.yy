@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"__scribble_generator_line_heights",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"__scribble_generator_line_heights",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

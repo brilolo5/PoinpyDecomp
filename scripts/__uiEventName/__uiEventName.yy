@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"__uiEventName",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"__uiEventName",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"switchEnsureAccount",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"switchEnsureAccount",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

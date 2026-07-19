@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"concat",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"concat",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

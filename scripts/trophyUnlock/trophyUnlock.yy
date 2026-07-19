@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"trophyUnlock",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"trophyUnlock",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

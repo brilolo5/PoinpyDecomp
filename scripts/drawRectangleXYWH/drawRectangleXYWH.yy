@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"drawRectangleXYWH",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"drawRectangleXYWH",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"initializeSpriteAnimationData",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"initializeSpriteAnimationData",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

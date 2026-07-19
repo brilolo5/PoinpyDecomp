@@ -1,0 +1,2 @@
+uiDestroy("settings root");
+CommitChanges();

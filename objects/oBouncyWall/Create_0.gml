@@ -1,0 +1,16 @@
+wallState = "moving";
+frameTick = 0;
+stop = 0;
+set = 0;
+cx = 0;
+cy = 0;
+xsp = random(2) * choose(-1, 1);
+ysp = random(2) * choose(-1, 1);
+moveSpeed = 0;
+timer = 60;
+wallSizex = 1;
+wallSizey = 1;
+alarmo[0] = timer;
+alarm[0] = 4;
+set = 0;
+mask_index = sprite_index;

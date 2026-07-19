@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"playSoundPlayerSkidSpin",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"playSoundPlayerSkidSpin",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

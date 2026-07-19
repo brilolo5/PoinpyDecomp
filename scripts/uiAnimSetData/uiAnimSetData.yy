@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"uiAnimSetData",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"uiAnimSetData",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

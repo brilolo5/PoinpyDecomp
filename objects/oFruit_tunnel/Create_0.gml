@@ -1,0 +1,15 @@
+event_inherited();
+outlineAlpha = 0;
+suckResist = 0;
+suckResistTimer = 0;
+golden = 0;
+inMotion = 0;
+gettingSuckedIn = 0;
+fruitSet = 0;
+noGet = 0;
+noGetTimer = 0;
+xsp = random_range(-1, 1);
+ysp = -2;
+draw = 0;
+noWiggle = 0;
+mask_index = sColorBall;

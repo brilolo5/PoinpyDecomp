@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"place_meeting_exception",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"place_meeting_exception",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

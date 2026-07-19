@@ -1,0 +1,56 @@
+function puzzleDataUnlockedSet(arg0, arg1, arg2)
+{
+    if (arg0 < 0 || arg0 >= array_length(global.__puzzleData))
+    {
+        trace("Puzzle: Area ", arg0, " out of bounds (0 -> ", array_length(global.__puzzleData) - 1, ")");
+        return false;
+    }
+    
+    var _areaArray = global.__puzzleData[arg0];
+    
+    if (arg1 == -3)
+    {
+        var _i = 0;
+        
+        repeat (global.puzzleLevelCount)
+        {
+            puzzleDataUnlockedSet(arg0, _i, arg2);
+            _i++;
+        }
+        
+        return true;
+    }
+    
+    if (arg1 < 0 || arg1 >= array_length(_areaArray))
+    {
+        trace("Puzzle: Level ", arg0, " out of bounds (0 -> ", array_length(_areaArray) - 1, ")");
+        return false;
+    }
+    
+    var _struct = _areaArray[arg1];
+    
+    if (!is_struct(_struct) || !variable_struct_exists(_struct, "unlocked"))
+    {
+        trace("Puzzle: Invalid data found at ", arg0, ", ", arg1);
+        return false;
+    }
+    
+    trace("Puzzle: Set unlock state for ", arg0, ", ", arg1, " = ", arg2);
+    _struct.unlocked = arg2;
+}
+
+function puzzleDataUnlockSetsForUnlockedAreas()
+{
+    var _listLength = ds_list_size(global.areaUnlockedList);
+    
+    for (var i = 0; i < _listLength; i += 1)
+    {
+        for (var j = 0; j < global.puzzleLevelCount; j += 1)
+            puzzleDataUnlockedSet(global.areaUnlockedList[| i], j, true);
+    }
+    
+    if (global.finalMixReached == 1)
+        puzzleDataUnlockedSet(UnknownEnum.Value_6, -3, true);
+    
+    return _listLength + global.finalMixReached;
+}

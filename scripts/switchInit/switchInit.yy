@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"switchInit",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"switchInit",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

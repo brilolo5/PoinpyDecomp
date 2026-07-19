@@ -1,0 +1,1 @@
+uiDestroy("puzzle complete root");

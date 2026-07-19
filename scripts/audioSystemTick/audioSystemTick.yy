@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"audioSystemTick",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"audioSystemTick",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

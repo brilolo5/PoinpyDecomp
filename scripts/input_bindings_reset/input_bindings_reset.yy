@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"input_bindings_reset",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"input_bindings_reset",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

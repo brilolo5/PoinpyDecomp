@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"savedataAsyncEventHandler",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"savedataAsyncEventHandler",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

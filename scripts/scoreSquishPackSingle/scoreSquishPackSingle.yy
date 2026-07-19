@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scoreSquishPackSingle",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scoreSquishPackSingle",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

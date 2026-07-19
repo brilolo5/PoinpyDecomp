@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"abilityGetIndexName",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"abilityGetIndexName",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

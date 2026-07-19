@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"bezierDraw",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"bezierDraw",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

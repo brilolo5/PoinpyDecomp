@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"playSoundAbilityFruitOffering",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"playSoundAbilityFruitOffering",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

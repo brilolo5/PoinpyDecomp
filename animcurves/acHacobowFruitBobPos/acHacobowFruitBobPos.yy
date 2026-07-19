@@ -1,0 +1,36 @@
+{
+  "$GMAnimCurve":"",
+  "%Name":"acHacobowFruitBobPos",
+  "channels":[
+    {"$GMAnimCurveChannel":"","%Name":"x","colour":4290799884,"name":"x","points":[
+        {"th0":1.0,"th1":-1.0,"tv0":0.0,"tv1":0.0,"x":0.0,"y":168.16833,},
+        {"th0":1.0,"th1":-1.0,"tv0":0.0,"tv1":0.0,"x":0.125,"y":168.16833,},
+        {"th0":1.0,"th1":-1.0,"tv0":0.0,"tv1":0.0,"x":0.25,"y":168.16833,},
+        {"th0":1.0,"th1":-1.0,"tv0":0.0,"tv1":0.0,"x":0.375,"y":168.16833,},
+        {"th0":1.0,"th1":-1.0,"tv0":0.0,"tv1":0.0,"x":0.5,"y":168.16833,},
+        {"th0":1.0,"th1":-1.0,"tv0":0.0,"tv1":0.0,"x":0.625,"y":168.16833,},
+        {"th0":1.0,"th1":-1.0,"tv0":0.0,"tv1":0.0,"x":0.75,"y":168.16833,},
+        {"th0":1.0,"th1":-1.0,"tv0":0.0,"tv1":0.0,"x":0.875,"y":168.16833,},
+        {"th0":1.0,"th1":-1.0,"tv0":0.0,"tv1":0.0,"x":1.0,"y":168.16833,},
+      ],"resourceType":"GMAnimCurveChannel","resourceVersion":"2.0","visible":true,},
+    {"$GMAnimCurveChannel":"","%Name":"y","colour":4290799884,"name":"y","points":[
+        {"th0":1.0,"th1":-1.0,"tv0":0.0,"tv1":0.0,"x":0.0,"y":-12.354828,},
+        {"th0":1.0,"th1":-1.0,"tv0":0.0,"tv1":0.0,"x":0.125,"y":-16.354828,},
+        {"th0":1.0,"th1":-1.0,"tv0":0.0,"tv1":0.0,"x":0.25,"y":-23.354828,},
+        {"th0":1.0,"th1":-1.0,"tv0":0.0,"tv1":0.0,"x":0.375,"y":-20.354828,},
+        {"th0":1.0,"th1":-1.0,"tv0":0.0,"tv1":0.0,"x":0.5,"y":0.0,},
+        {"th0":1.0,"th1":-1.0,"tv0":0.0,"tv1":0.0,"x":0.625,"y":14.0,},
+        {"th0":1.0,"th1":-1.0,"tv0":0.0,"tv1":0.0,"x":0.75,"y":8.0,},
+        {"th0":1.0,"th1":-1.0,"tv0":0.0,"tv1":0.0,"x":0.875,"y":-2.0,},
+        {"th0":1.0,"th1":-1.0,"tv0":0.0,"tv1":0.0,"x":1.0,"y":-2.0,},
+      ],"resourceType":"GMAnimCurveChannel","resourceVersion":"2.0","visible":true,},
+  ],
+  "function":1,
+  "name":"acHacobowFruitBobPos",
+  "parent":{
+    "name":"Animation Curves",
+    "path":"folders/Animation Curves.yy",
+  },
+  "resourceType":"GMAnimCurve",
+  "resourceVersion":"2.0",
+}

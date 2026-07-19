@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"playSoundBeastLobbyBonk",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"playSoundBeastLobbyBonk",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

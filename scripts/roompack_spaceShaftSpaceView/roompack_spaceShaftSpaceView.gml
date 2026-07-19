@@ -1,0 +1,4 @@
+function roompack_spaceShaftSpaceView()
+{
+    return json_decode("{\r\n\"rpSpaceShaft_spaceView\":{\"name\":\"rpSpaceShaft_spaceView\",\"layers\":[{\"name\":\"Instances\",\"instances\":[{\"name\":\"inst_18AF707A\",\"x\":160,\"y\":64,\"obj\":\"oWall\",\"scaleY\":9},{\"name\":\"inst_6E8BC6EE\",\"x\":0,\"y\":64,\"obj\":\"oWall\",\"scaleY\":9},{\"name\":\"inst_5065A48B\",\"x\":0,\"y\":184,\"obj\":\"oWall\",\"scaleY\":6},{\"name\":\"inst_1F517285\",\"x\":160,\"y\":184,\"obj\":\"oWall\",\"scaleY\":6}],\"depth\":0,\"modelName\":\"GMRInstanceLayer\"},{\"name\":\"Background\",\"color\":4278190080,\"depth\":100,\"modelName\":\"GMRBackgroundLayer\"}],\"viewSettings\":{\"clearViewBackground\":false},\"instanceCreationOrderIDs\":[\"inst_18AF707A\",\"inst_6E8BC6EE\",\"inst_5065A48B\",\"inst_1F517285\"],\"views\":[{},{},{},{},{},{},{},{}],\"roomSettings\":{\"Width\":160,\"Height\":240}}\r\n}");
+}

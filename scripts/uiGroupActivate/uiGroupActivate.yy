@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"uiGroupActivate",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"uiGroupActivate",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

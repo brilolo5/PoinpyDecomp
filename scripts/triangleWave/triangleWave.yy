@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"triangleWave",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"triangleWave",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

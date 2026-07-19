@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"uiFocusCursor",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"uiFocusCursor",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

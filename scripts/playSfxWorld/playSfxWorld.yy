@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"playSfxWorld",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"playSfxWorld",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

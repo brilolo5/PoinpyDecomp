@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"drawPillWithOutline",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"drawPillWithOutline",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

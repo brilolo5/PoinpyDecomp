@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"drawRainbowSplash",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"drawRainbowSplash",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

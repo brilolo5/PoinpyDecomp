@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"playerDrawJumpUI",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"playerDrawJumpUI",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

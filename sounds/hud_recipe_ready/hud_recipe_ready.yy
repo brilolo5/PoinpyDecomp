@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"hud_recipe_ready",
+  "audioGroupId":{
+    "name":"sfx",
+    "path":"audiogroups/sfx",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":0.751746,
+  "exportDir":"",
+  "name":"hud_recipe_ready",
+  "parent":{
+    "name":"sfx",
+    "path":"folders/Sounds/sfx.yy",
+  },
+  "preload":true,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"hud_recipe_ready.wav",
+  "volume":1.0,
+}

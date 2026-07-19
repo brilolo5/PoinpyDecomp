@@ -1,0 +1,13 @@
+var viewy = getViewy(global.cam);
+var viewx = getViewx(global.cam);
+var _bgSprite = sBgLobby;
+var _scrollDepth = 0.5;
+viewy = getViewy(global.cam);
+viewx = getViewx(global.cam);
+var _bgSpriteShrinkScale = 0.1;
+var _bgSpriteHeight = sprite_get_height(_bgSprite) * _bgSpriteShrinkScale;
+var _bgSpriteWidth = sprite_get_width(_bgSprite) * _bgSpriteShrinkScale;
+var _scrollAmount = -((viewy * _scrollDepth) % _bgSpriteHeight);
+var _scrollAmount_horizontal = -((viewx * 0.75) % _bgSpriteWidth);
+var _bgTileNum = ceil(global.viewHeight / _bgSpriteHeight);
+draw_sprite_tiled_ext(_bgSprite, 0, viewx + _scrollAmount_horizontal, viewy + _scrollAmount, _bgSpriteShrinkScale, _bgSpriteShrinkScale, c_white, 1);

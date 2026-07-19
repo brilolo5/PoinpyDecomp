@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"getMusicForArea",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"getMusicForArea",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

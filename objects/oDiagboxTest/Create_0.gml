@@ -1,0 +1,11 @@
+initializeScribble();
+initializeInput();
+gpu_set_tex_filter(true);
+window_set_cursor(cr_none);
+dialogueIndex = 0;
+dialogueArray = ["'twas brillig and the slithey toves didst gyre and gimble in the wabe", "all mimsy were the borogoves", "and the momeraths outgrabe"];
+diagbox = diagboxCreate();
+diagboxSetLimits(diagbox, 30, 30, room_width - 30, room_height - 30);
+diagboxSetText(diagbox, dialogueArray[dialogueIndex]);
+diagboxFloat(diagbox, 0, -30);
+diagboxSetKnobTarget(diagbox, room_width / 2, room_height / 2);

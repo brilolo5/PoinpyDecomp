@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"initializeWindow",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"initializeWindow",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

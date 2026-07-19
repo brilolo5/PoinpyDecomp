@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"playSoundHUDExperienceMoveHeadLoop",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"playSoundHUDExperienceMoveHeadLoop",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

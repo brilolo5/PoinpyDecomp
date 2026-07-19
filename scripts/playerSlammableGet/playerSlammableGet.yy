@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"playerSlammableGet",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"playerSlammableGet",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

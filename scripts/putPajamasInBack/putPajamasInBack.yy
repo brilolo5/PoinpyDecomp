@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"putPajamasInBack",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"putPajamasInBack",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,61 @@
+event_inherited();
+addToAnimDataMap(sHacobow_cry_repeat);
+addToAnimDataMap(sHacobow_cry_start);
+addToAnimDataMap(sHacobow_ops);
+addToAnimDataMap(sHacobow_tears);
+addToAnimDataMap(sHacobow_turn_arm);
+addToAnimDataMap(sHacobow_turn_body);
+addToAnimDataMap(sHacobow_walk_arm);
+addToAnimDataMap(sHacobow_walk_body);
+drawTears = 0;
+tearFrame = 0;
+animFrame = 0;
+image_speed = 0;
+xDirection = sign((room_width - x) + 0.1);
+yDirection = 1;
+xscaleBase = 0.1;
+yscaleBase = 0.1;
+xShrink = 1;
+yShrink = 1;
+xscale = xShrink * xDirection * xscaleBase;
+yscale = yShrink * yDirection * yscaleBase;
+handx = x;
+handy = y;
+handangle = 0;
+handxscale = 0.1;
+handSprite = sHacobow_walk_arm;
+handIndex = 0;
+maxSpeed = 0.15;
+handlerType = global.currentLevelChunkSet;
+
+if (global.currentLevelChunkSet == UnknownEnum.Value_6)
+    handlerType = choose(1, 2, 3, 4);
+
+becomeAreaSpecificHandler(handlerType);
+active = 0;
+activationRange = 96;
+cx = 0;
+cy = 0;
+cxx = 0;
+cyy = 0;
+dcx = cx;
+dcy = cy;
+enemyState = "idle";
+xsp = maxSpeed * xDirection;
+ysp = 0;
+accel = 0.025;
+hitStop = 0;
+grav = 0.2;
+myFruit = UnknownEnum.Value_0;
+myFruitInstance = -4;
+myFruitx = x;
+myFruitSprite = sFruitRed;
+animationTracker = 0;
+animationTime = 60;
+image_index = 1;
+mask_index = sEnFruitHandlerTest;
+imageIndex = 0;
+prvImageIndex = image_index;
+
+if (abilityCheck(UnknownEnum.Value_20))
+    enemyState = "dual wield";

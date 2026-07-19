@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"playSoundPlayerInvincibleSpinStart",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"playSoundPlayerInvincibleSpinStart",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

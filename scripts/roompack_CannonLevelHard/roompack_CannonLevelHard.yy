@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"roompack_CannonLevelHard",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"roompack_CannonLevelHard",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

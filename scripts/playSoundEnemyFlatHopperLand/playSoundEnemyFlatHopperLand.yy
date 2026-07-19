@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"playSoundEnemyFlatHopperLand",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"playSoundEnemyFlatHopperLand",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

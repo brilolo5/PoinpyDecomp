@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"playerControlInputRelease",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"playerControlInputRelease",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

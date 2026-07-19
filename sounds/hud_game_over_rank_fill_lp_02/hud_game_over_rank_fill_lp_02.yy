@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"hud_game_over_rank_fill_lp_02",
+  "audioGroupId":{
+    "name":"sfx",
+    "path":"audiogroups/sfx",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":4.714104,
+  "exportDir":"",
+  "name":"hud_game_over_rank_fill_lp_02",
+  "parent":{
+    "name":"sfx",
+    "path":"folders/Sounds/sfx.yy",
+  },
+  "preload":true,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"hud_game_over_rank_fill_lp_02.wav",
+  "volume":0.8,
+}

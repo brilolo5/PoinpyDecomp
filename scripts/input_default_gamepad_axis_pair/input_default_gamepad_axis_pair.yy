@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"input_default_gamepad_axis_pair",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"input_default_gamepad_axis_pair",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

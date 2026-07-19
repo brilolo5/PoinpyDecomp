@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scribble_font_collage_glyph_copy",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scribble_font_collage_glyph_copy",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,34 @@
+{
+  "$GMAnimCurve":"",
+  "%Name":"acHandlerTurnFruitPos",
+  "channels":[
+    {"$GMAnimCurveChannel":"","%Name":"x","colour":4290799884,"name":"x","points":[
+        {"th0":1.0,"th1":-1.0,"tv0":0.0,"tv1":0.0,"x":0.0,"y":0.0,},
+        {"th0":1.0,"th1":-1.0,"tv0":0.0,"tv1":0.0,"x":0.028571429,"y":0.0,},
+        {"th0":1.0,"th1":-1.0,"tv0":0.0,"tv1":0.0,"x":0.1,"y":-1.0,},
+        {"th0":1.0,"th1":-1.0,"tv0":0.0,"tv1":0.0,"x":0.7714286,"y":-1.0,},
+        {"th0":1.0,"th1":-1.0,"tv0":0.0,"tv1":0.0,"x":1.0,"y":-1.0,},
+      ],"resourceType":"GMAnimCurveChannel","resourceVersion":"2.0","visible":true,},
+    {"$GMAnimCurveChannel":"","%Name":"y","colour":4290799884,"name":"y","points":[
+        {"th0":1.0,"th1":-1.0,"tv0":0.0,"tv1":0.0,"x":0.0,"y":-15.0,},
+        {"th0":1.0,"th1":-1.0,"tv0":0.0,"tv1":0.0,"x":0.028571429,"y":-15.004558,},
+        {"th0":1.0,"th1":-1.0,"tv0":0.0,"tv1":0.0,"x":0.028571429,"y":-24.0,},
+        {"th0":1.0,"th1":-1.0,"tv0":0.0,"tv1":0.0,"x":0.1,"y":-24.0,},
+        {"th0":1.0,"th1":-1.0,"tv0":0.0,"tv1":0.0,"x":0.1,"y":-7.0,},
+        {"th0":1.0,"th1":-1.0,"tv0":0.0,"tv1":0.0,"x":0.7714286,"y":-6.9652243,},
+        {"th0":1.0,"th1":-1.0,"tv0":0.0,"tv1":0.0,"x":0.7714286,"y":1.0,},
+        {"th0":1.0,"th1":-1.0,"tv0":0.0,"tv1":0.0,"x":0.85714287,"y":0.89501,},
+        {"th0":1.0,"th1":-1.0,"tv0":0.0,"tv1":0.0,"x":0.85714287,"y":-14.0,},
+        {"th0":1.0,"th1":-1.0,"tv0":0.0,"tv1":0.0,"x":0.85714287,"y":-14.0,},
+        {"th0":1.0,"th1":-1.0,"tv0":0.0,"tv1":0.0,"x":1.0,"y":-14.0,},
+      ],"resourceType":"GMAnimCurveChannel","resourceVersion":"2.0","visible":true,},
+  ],
+  "function":1,
+  "name":"acHandlerTurnFruitPos",
+  "parent":{
+    "name":"Animation Curves",
+    "path":"folders/Animation Curves.yy",
+  },
+  "resourceType":"GMAnimCurve",
+  "resourceVersion":"2.0",
+}

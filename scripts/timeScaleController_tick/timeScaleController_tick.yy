@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"timeScaleController_tick",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"timeScaleController_tick",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

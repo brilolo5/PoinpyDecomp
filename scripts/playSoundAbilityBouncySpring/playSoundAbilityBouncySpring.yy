@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"playSoundAbilityBouncySpring",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"playSoundAbilityBouncySpring",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

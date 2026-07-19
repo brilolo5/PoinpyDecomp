@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"abilityGetCostArray",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"abilityGetCostArray",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

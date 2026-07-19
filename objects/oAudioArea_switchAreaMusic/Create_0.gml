@@ -1,0 +1,1 @@
+nextMusic = getMusicForArea(global.currentLevelChunkSet);

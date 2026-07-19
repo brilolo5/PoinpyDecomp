@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"puzzleDataExport",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"puzzleDataExport",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

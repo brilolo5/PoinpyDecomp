@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"__uiClipFuncs",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"__uiClipFuncs",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

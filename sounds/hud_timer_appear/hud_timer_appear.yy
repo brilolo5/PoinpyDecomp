@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"hud_timer_appear",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":0.4227437,
+  "exportDir":"",
+  "name":"hud_timer_appear",
+  "parent":{
+    "name":"Sounds",
+    "path":"folders/Sounds.yy",
+  },
+  "preload":true,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"hud_timer_appear.wav",
+  "volume":1.0,
+}

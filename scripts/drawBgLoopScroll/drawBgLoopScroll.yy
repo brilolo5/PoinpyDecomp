@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"drawBgLoopScroll",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"drawBgLoopScroll",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

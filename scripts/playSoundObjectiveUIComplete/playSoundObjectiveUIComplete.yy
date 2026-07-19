@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"playSoundObjectiveUIComplete",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"playSoundObjectiveUIComplete",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

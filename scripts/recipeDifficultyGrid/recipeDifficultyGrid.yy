@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"recipeDifficultyGrid",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"recipeDifficultyGrid",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

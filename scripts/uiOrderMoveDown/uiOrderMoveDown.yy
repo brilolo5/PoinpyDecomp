@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"uiOrderMoveDown",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"uiOrderMoveDown",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

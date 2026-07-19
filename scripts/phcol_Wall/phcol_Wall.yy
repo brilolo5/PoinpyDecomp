@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"phcol_Wall",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"phcol_Wall",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

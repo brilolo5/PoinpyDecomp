@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"roompack_levelHardTest",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"roompack_levelHardTest",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

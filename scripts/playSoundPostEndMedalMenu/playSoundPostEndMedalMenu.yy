@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"playSoundPostEndMedalMenu",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"playSoundPostEndMedalMenu",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

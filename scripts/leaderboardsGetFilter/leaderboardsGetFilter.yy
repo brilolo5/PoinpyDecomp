@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"leaderboardsGetFilter",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"leaderboardsGetFilter",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

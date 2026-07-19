@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"surface_resize_trace",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"surface_resize_trace",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

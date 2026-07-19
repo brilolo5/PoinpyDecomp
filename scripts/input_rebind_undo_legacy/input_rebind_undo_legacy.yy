@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"input_rebind_undo_legacy",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"input_rebind_undo_legacy",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

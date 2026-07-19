@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"makeAnimationArrayFromSprite",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"makeAnimationArrayFromSprite",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

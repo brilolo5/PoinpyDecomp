@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"uiAnimIsFinished",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"uiAnimIsFinished",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

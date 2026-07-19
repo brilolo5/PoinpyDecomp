@@ -1,0 +1,16 @@
+depth = -1000;
+global.pauseCam = camera_create_view(0, 0, global.viewWidth, global.viewHeight, 0, -1, -1, -1, -1, -1);
+view_set_camera(1, global.pauseCam);
+view_visible[1] = 1;
+view_enabled = 1;
+camera_set_view_size(global.pauseCam, global.viewWidth, global.viewHeight / 2);
+global.pauseSurface = surface_create_track(window_get_width(), window_get_height() / 2);
+view_set_surface_id(1, global.pauseSurface);
+camLock = -1;
+camPosx = 80;
+camGoalPosx = camPosx;
+camPosy = y;
+camGoalPosy = y;
+screenShakeTimer = 0;
+screenShakeAmount = 0;
+frameTimer = 1;

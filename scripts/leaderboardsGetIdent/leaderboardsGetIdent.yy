@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"leaderboardsGetIdent",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"leaderboardsGetIdent",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"snap_to_gml",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"snap_to_gml",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

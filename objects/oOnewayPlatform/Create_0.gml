@@ -1,0 +1,11 @@
+cx = 0;
+cy = 0;
+spriteIndex = sOnewayPlatformMiddle;
+mask_index = sprite_index;
+alarm[0] = 1;
+image_speed = 0;
+xscaleBase = image_xscale;
+yscaleBase = image_yscale;
+platformSize = xscaleBase;
+platformIndex = array_create(platformSize, sOnewayPlatformMiddle);
+platformRandomImageIndex = array_create(platformSize, irandom(1));

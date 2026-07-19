@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"uiAnimGetNext",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"uiAnimGetNext",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,9 @@
+set = 0;
+alarm[0] = 1;
+alarm[2] = 1;
+alarm[3] = 1;
+mask_index = sprite_index;
+wallSprite = sLevelTile00;
+shrinkRate = 0.1;
+imageYscale = 1;
+wallImageIndex[0] = 1;

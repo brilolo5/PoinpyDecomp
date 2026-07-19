@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"guiGetCenter",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"guiGetCenter",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"checkGachaAvailability",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"checkGachaAvailability",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

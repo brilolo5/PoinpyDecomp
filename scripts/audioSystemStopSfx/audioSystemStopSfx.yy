@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"audioSystemStopSfx",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"audioSystemStopSfx",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

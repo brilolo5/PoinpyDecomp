@@ -1,0 +1,4 @@
+function roompack_test()
+{
+    return json_decode("{\r\n\t\"t_rpLevelHardTest_00\":{\"name\":\"t_rpLevelHardTest_00\",\"layers\":[{\"name\":\"Instances\",\"instances\":[],\"depth\":0,\"modelName\":\"GMRInstanceLayer\"},{\"name\":\"Background\",\"color\":4278190080,\"depth\":100,\"modelName\":\"GMRBackgroundLayer\"}],\"viewSettings\":{\"clearViewBackground\":false},\"views\":[{},{},{},{},{},{},{},{}],\"roomSettings\":{\"Width\":160,\"Height\":240}},\r\n\t\"t_rpLevelHardTest_01\":{\"name\":\"t_rpLevelHardTest_01\",\"layers\":[{\"name\":\"Instances\",\"instances\":[],\"depth\":0,\"modelName\":\"GMRInstanceLayer\"},{\"name\":\"Background\",\"color\":4278190080,\"depth\":100,\"modelName\":\"GMRBackgroundLayer\"}],\"viewSettings\":{\"clearViewBackground\":false},\"views\":[{},{},{},{},{},{},{},{}],\"roomSettings\":{\"Width\":160,\"Height\":240}}\r\n\t}");
+}

@@ -1,0 +1,20 @@
+if ((abs(image_xscale) + abs(image_yscale)) > 2)
+{
+    var _wallSize = 16;
+    var _xscale = image_xscale;
+    var _yscale = image_yscale;
+    var _startingLeft = bbox_left;
+    var _startingTop = bbox_top;
+    
+    for (var i = 0; i < _yscale; i += 1)
+    {
+        for (var t = 0; t < _xscale; t += 1)
+        {
+            var _posx = _startingLeft + (_wallSize * t) + (_wallSize / 2);
+            var _posy = _startingTop + (_wallSize * i) + (_wallSize / 2);
+            instance_create_depth(_posx, _posy, 0, object_index);
+        }
+    }
+    
+    instance_destroy();
+}

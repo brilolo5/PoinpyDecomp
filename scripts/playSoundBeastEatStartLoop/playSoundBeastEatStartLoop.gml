@@ -1,0 +1,6 @@
+function playSoundBeastEatStartLoop()
+{
+    with (oPlayer)
+    {
+    }
+}

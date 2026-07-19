@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"locLoad",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"locLoad",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

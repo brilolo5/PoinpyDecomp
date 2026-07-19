@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"ui_puzzle_select",
+  "audioGroupId":{
+    "name":"sfx",
+    "path":"audiogroups/sfx",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":0.6146031,
+  "exportDir":"",
+  "name":"ui_puzzle_select",
+  "parent":{
+    "name":"sfx",
+    "path":"folders/Sounds/sfx.yy",
+  },
+  "preload":true,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"ui_puzzle_select.wav",
+  "volume":1.0,
+}

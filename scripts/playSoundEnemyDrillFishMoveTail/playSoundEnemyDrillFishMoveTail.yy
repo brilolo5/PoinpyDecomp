@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"playSoundEnemyDrillFishMoveTail",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"playSoundEnemyDrillFishMoveTail",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

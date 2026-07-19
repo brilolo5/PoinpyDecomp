@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"drawSquircleWithOutline",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"drawSquircleWithOutline",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

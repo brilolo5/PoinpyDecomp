@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"bezierLength",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"bezierLength",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

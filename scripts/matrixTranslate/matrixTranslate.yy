@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"matrixTranslate",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"matrixTranslate",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

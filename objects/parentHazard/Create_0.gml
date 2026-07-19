@@ -1,0 +1,10 @@
+cx = 0;
+cy = 0;
+unstompable = 0;
+xDirection = 1;
+yDirection = 1;
+xShrink = 1;
+yShrink = 1;
+xscale = 1;
+yscale = 1;
+imageAngle = 0;

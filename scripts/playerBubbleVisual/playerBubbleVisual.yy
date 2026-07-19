@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"playerBubbleVisual",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"playerBubbleVisual",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,1 @@
+uiDestroy("results root");

@@ -1,0 +1,44 @@
+function drawOrbitingCircle(arg0, arg1, arg2, arg3, arg4)
+{
+    var _centerPosx = arg0;
+    var _centerPosy = arg1;
+    var _motherWidth = arg2;
+    var _motherHeight = arg3;
+    var _circleSize = arg4;
+    var _timeSpeed = current_time / 150;
+    var _ex = _centerPosx + (dsin(_timeSpeed) * (_motherWidth / 2));
+    var _ey = _centerPosy + (dcos(_timeSpeed) * (_motherHeight / 2));
+    draw_circle(_ex, _ey, _circleSize, 0);
+    _timeSpeed += 60;
+    _ex = _centerPosx + (dsin(_timeSpeed) * (_motherWidth / 2));
+    _ey = _centerPosy + (dcos(_timeSpeed) * (_motherHeight / 2));
+    draw_circle(_ex, _ey, _circleSize, 0);
+    _timeSpeed += 50;
+    _ex = _centerPosx + (dsin(_timeSpeed) * (_motherWidth / 2));
+    _ey = _centerPosy + (dcos(_timeSpeed) * (_motherHeight / 2));
+    draw_circle(_ex, _ey, _circleSize, 0);
+    _timeSpeed += 30;
+    _ex = _centerPosx + (dsin(_timeSpeed) * (_motherWidth / 2));
+    _ey = _centerPosy + (dcos(_timeSpeed) * (_motherHeight / 2));
+    draw_circle(_ex, _ey, _circleSize, 0);
+    _timeSpeed += 40;
+    _ex = _centerPosx + (dsin(_timeSpeed) * (_motherWidth / 2));
+    _ey = _centerPosy + (dcos(_timeSpeed) * (_motherHeight / 2));
+    draw_circle(_ex, _ey, _circleSize, 0);
+    _timeSpeed += 40;
+    _ex = _centerPosx + (dsin(_timeSpeed) * (_motherWidth / 2));
+    _ey = _centerPosy + (dcos(_timeSpeed) * (_motherHeight / 2));
+    draw_circle(_ex, _ey, _circleSize, 0);
+    _timeSpeed += 50;
+    _ex = _centerPosx + (dsin(_timeSpeed) * (_motherWidth / 2));
+    _ey = _centerPosy + (dcos(_timeSpeed) * (_motherHeight / 2));
+    draw_circle(_ex, _ey, _circleSize, 0);
+    _timeSpeed += 30;
+    _ex = _centerPosx + (dsin(_timeSpeed) * (_motherWidth / 2));
+    _ey = _centerPosy + (dcos(_timeSpeed) * (_motherHeight / 2));
+    draw_circle(_ex, _ey, _circleSize, 0);
+    _timeSpeed += 30;
+    _ex = _centerPosx + (dsin(_timeSpeed) * (_motherWidth / 2));
+    _ey = _centerPosy + (dcos(_timeSpeed) * (_motherHeight / 2));
+    draw_circle(_ex, _ey, _circleSize, 0);
+}

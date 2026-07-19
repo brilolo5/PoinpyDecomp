@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"surface_blur",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"surface_blur",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

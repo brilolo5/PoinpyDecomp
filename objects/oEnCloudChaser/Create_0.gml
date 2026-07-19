@@ -1,0 +1,18 @@
+event_inherited();
+enemyState = "idle";
+unstompable = 0;
+grounded = 0;
+grav = 0;
+gravityEnabled = 0;
+maxFallSpeed = 16;
+xsp = 0;
+ysp = 0;
+cx = 0;
+cy = 0;
+hitStop = 0;
+xDirection = 1;
+yDirection = 1;
+xShrink = 1;
+yShrink = 1;
+xscale = 1;
+yscale = 1;

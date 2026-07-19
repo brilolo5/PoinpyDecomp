@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"beastFeed",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"beastFeed",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

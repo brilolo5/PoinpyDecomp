@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"uiTemplateRectangle",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"uiTemplateRectangle",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

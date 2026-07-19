@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"uiDrawPauseSurfacePartExt",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"uiDrawPauseSurfacePartExt",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

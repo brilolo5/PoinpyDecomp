@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"uiAnimSetCallback",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"uiAnimSetCallback",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

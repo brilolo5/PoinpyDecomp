@@ -1,0 +1,12 @@
+{
+  "$GMShader":"",
+  "%Name":"__shd_scribble_bake_outline",
+  "name":"__shd_scribble_bake_outline",
+  "parent":{
+    "name":"Shaders",
+    "path":"folders/Shaders.yy",
+  },
+  "resourceType":"GMShader",
+  "resourceVersion":"2.0",
+  "type":1,
+}

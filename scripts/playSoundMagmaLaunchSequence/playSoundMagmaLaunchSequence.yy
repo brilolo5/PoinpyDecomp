@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"playSoundMagmaLaunchSequence",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"playSoundMagmaLaunchSequence",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

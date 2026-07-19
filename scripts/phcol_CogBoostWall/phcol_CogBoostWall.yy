@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"phcol_CogBoostWall",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"phcol_CogBoostWall",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

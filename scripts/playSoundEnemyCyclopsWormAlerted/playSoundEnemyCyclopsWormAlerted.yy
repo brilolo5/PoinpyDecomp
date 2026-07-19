@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"playSoundEnemyCyclopsWormAlerted",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"playSoundEnemyCyclopsWormAlerted",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
