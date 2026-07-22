@@ -4,7 +4,7 @@
 A decompilation of Ojiro Fumoto's former Netflix game, POINPY, for modding and porting access.<br>
 
 ## How do I use this?
-1. You will need to own a copy of the latest POINPY version (1.1.1) for Android; this can be acquired if you downloaded the game through the Google Play Store while it was there, in combination with tools like [SAI](https://github.com/aefyr/SAI) to extract the APK.
+1. You will need to own a copy of the latest Netflix version (1.1.1) for Android; support for the official release will arrive soon. This can be acquired if you downloaded the game through the Google Play Store while it was there, in combination with tools like [SAI](https://github.com/aefyr/SAI) to extract the APK.
 2. Clone the repo.
 3. Download the latest version of [UndertaleModTool](https://github.com/UnderminersTeam/UndertaleModTool) (GUI, NOT CLI), you will need it to run the asset extractor script.<br>
 4. In the place you extracted the game's data to, locate the ``game.droid`` file and load it with UndertaleModTool.<br>
