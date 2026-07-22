@@ -18,6 +18,3 @@ A decompilation of Ojiro Fumoto's former Netflix game, POINPY, for modding acces
 
 ## Notes
 1. This might not be complete and need some patching in the future, but most of the game is fixed. Keep in mind this was only tested on Windows, I have no idea if it works on other platforms. Contributions and forks are welcome!
-
-### Known issues
-1. oGimBubble does not render in the game at all; no fix found.
