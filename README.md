@@ -1,7 +1,7 @@
 # PoinpyDecomp
 
 
-A decompilation of Ojiro Fumoto's former Netflix game, POINPY, for modding and porting access.<br>
+A decompilation of Ojiro Fumoto's former Netflix game, POINPY, for modding access.<br>
 
 ## How do I use this?
 1. You will need to own a copy of the latest Netflix version (1.1.1) for Android (the iOS/Google Play release is not supported due to using YYC, whereas the Netflix version is VM). This can be acquired if you downloaded the game through the Google Play Store while it was there, in combination with tools like [SAI](https://github.com/aefyr/SAI) to extract the APK.
