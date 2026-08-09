@@ -1,15 +1,12 @@
 # PoinpyDecomp
 
 
-A decompilation of Ojiro Fumoto's former Netflix game, POINPY, for modding access.<br>
+A decompilation of Ojiro Fumoto's game, POINPY, for modding access.<br>
 
 ## How do I use this?
-1. You will need to own a copy of the latest Netflix version (1.1.1) for Android (the iOS/Google Play release is not supported due to using YYC, whereas the Netflix version is VM). This can be acquired if you downloaded the game through the Google Play Store while it was there, in combination with tools like [SAI](https://github.com/aefyr/SAI) to extract the APK.
-2. Clone the repo.
-3. Download the latest version of [UndertaleModTool](https://github.com/UnderminersTeam/UndertaleModTool) (GUI, NOT CLI), you will need it to run the asset extractor script.<br>
-4. In the place you extracted the game's data to, locate the ``game.droid`` file and load it with UndertaleModTool.<br>
-5. After loading the file, in UndertaleModTool, go to ``Scripts -> Run other script...`` and load the ``PoinpyDecompiler.csx`` script that can be found in the project's root.<br>
-6. Once the script is done running, just simply open ``Poinpy.yyp`` inside of the latest version of Gamemaker Studio 2!
+Originally, this required you to have an UndertaleModTool script in order to extract the assets from the latest Netflix version (1.1.1, which the decomp is based on, due to the latest version being written in YYC). Due to the game being entirely free now, simply open ``Poinpy.yyp`` inside of the latest version of Gamemaker Studio 2.
+
+A downloadable build for Windows is located in the Releases section of this page.
 
 ## Special Thanks
 [UnderminersTeam](https://github.com/UnderminersTeam) - Made [UndertaleModTool](https://github.com/UnderminersTeam/UndertaleModTool).<br>

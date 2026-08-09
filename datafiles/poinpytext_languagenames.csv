@@ -1,0 +1,17 @@
+Text ID,Comment,Max char limit,Asian char limit,English,Japanese,Korean,TChinese,French,German,Spanish Spain,Spanish LatAm,Portuguese,Italian,Turkish,Arabic,Thai,Swedish,Polish
+,,,,,,,,,,,,,,,,,,
+language english,English,16,16,English,English,English,English,English,English,English,English,English,English,English,English,English,English,English
+language japanese,Japanese,16,16,日本語,日本語,日本語,日本語,日本語,日本語,日本語,日本語,日本語,日本語,日本語,日本語,日本語,日本語,日本語
+language korean,Korean,16,16,한국어,한국어,한국어,한국어,한국어,한국어,한국어,한국어,한국어,한국어,한국어,한국어,한국어,한국어,한국어
+language tchinese,TChinese,16,16,繁体字,繁体字,繁体字,繁体字,繁体字,繁体字,繁体字,繁体字,繁体字,繁体字,繁体字,繁体字,繁体字,繁体字,繁体字
+language french,French,16,16,Français,Français,Français,Français,Français,Français,Français,Français,Français,Français,Français,Français,Français,Français,Français
+language german,German,16,16,Deutsch,Deutsch,Deutsch,Deutsch,Deutsch,Deutsch,Deutsch,Deutsch,Deutsch,Deutsch,Deutsch,Deutsch,Deutsch,Deutsch,Deutsch
+language spanish spain,Spanish Spain,16,16,Español (ES),Español (ES),Español (ES),Español (ES),Español (ES),Español (ES),Español (ES),Español (ES),Español (ES),Español (ES),Español (ES),Español (ES),Español (ES),Español (ES),Español (ES)
+language spanish latam,Spanish LatAm,16,16,Español (LA),Español (LA),Español (LA),Español (LA),Español (LA),Español (LA),Español (LA),Español (LA),Español (LA),Español (LA),Español (LA),Español (LA),Español (LA),Español (LA),Español (LA)
+language portuguese,Portuguese,16,16,Português,Português,Português,Português,Português,Português,Português,Português,Português,Português,Português,Português,Português,Português,Português
+language italian,Italian,16,16,Italiano,Italiano,Italiano,Italiano,Italiano,Italiano,Italiano,Italiano,Italiano,Italiano,Italiano,Italiano,Italiano,Italiano,Italiano
+language turkish,Turkish,16,16,Türkçe ,Türkçe ,Türkçe ,Türkçe ,Türkçe ,Türkçe ,Türkçe ,Türkçe ,Türkçe ,Türkçe ,Türkçe ,Türkçe ,Türkçe ,Türkçe ,Türkçe 
+language arabic,Arabic,16,16,عربي,عربي,عربي,عربي,عربي,عربي,عربي,عربي,عربي,عربي,عربي,عربي,عربي,عربي,عربي
+language thai,Thai,16,16,ไทย,ไทย,ไทย,ไทย,ไทย,ไทย,ไทย,ไทย,ไทย,ไทย,ไทย,ไทย,ไทย,ไทย,ไทย
+language swedish,Swedish,16,16,Svenska,Svenska,Svenska,Svenska,Svenska,Svenska,Svenska,Svenska,Svenska,Svenska,Svenska,Svenska,Svenska,Svenska,Svenska
+language polish,Polish,16,16,Polski,Polski,Polski,Polski,Polski,Polski,Polski,Polski,Polski,Polski,Polski,Polski,Polski,Polski,Polski
