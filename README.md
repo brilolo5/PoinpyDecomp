@@ -4,7 +4,7 @@
 A decompilation of Ojiro Fumoto's game, POINPY, for modding access.<br>
 
 ## How do I use this?
-Originally, this required you to have an UndertaleModTool script in order to extract the assets from the latest Netflix version (1.1.1, which the decomp is based on, due to the latest version being written in YYC). Due to the game being entirely free now, simply open ``Poinpy.yyp`` inside of the latest version of Gamemaker Studio 2.
+Originally, this required you to have an UndertaleModTool script in order to extract the assets from the latest Netflix version (1.1.1, which the decomp is based on, due to the latest version being written in YYC). Due to the game being entirely free now, I decided to upload the assets. Simply open ``Poinpy.yyp`` inside of the latest version of GameMaker Studio 2.
 
 A downloadable build for Windows is located in the Releases section of this page.
 
@@ -14,4 +14,4 @@ A downloadable build for Windows is located in the Releases section of this page
 [Ojiro Fumoto](https://x.com/OjiroFumoto) - Made POINPY.
 
 ## Notes
-1. This might not be complete and need some patching in the future, but most of the game is fixed. Keep in mind this was only tested on Windows, I have no idea if it works on other platforms. Contributions and forks are welcome!
+This decompilation is 99% complete, but might still require patching (like fixing broken textures or sounds). This was only tested on Windows, and I currently have no idea if it works on other platforms. Contributions are welcome!
